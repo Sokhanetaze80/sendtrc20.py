@@ -1,0 +1,9 @@
+base58
+coincurve
+eth-abi<6.0.0,>=5.0.0
+httpx
+pycryptodome<4
+requests
+
+[mnemonic]
+mnemonic==0.20
